@@ -24,7 +24,7 @@
 </p>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcvivis&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcvivis&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <div align=center>
@@ -32,8 +32,7 @@
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cvivis&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvivis&hide=html,&hide_border=true&title_color=black&text_color=555"
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cvivis&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=000000&text_color=555">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvivis&hide=html,&hide_border=true&title_color=000000&layout=compact&text_color=000000"
 </p>
 </details>
